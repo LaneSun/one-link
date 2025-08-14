@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>One Link</title>
+</svelte:head>
+
 <div class="box-scroll block font-serif">
     <div class="relative box h-full">
         <canvas class="absolute inset-0 w-full h-full z--1"></canvas>
